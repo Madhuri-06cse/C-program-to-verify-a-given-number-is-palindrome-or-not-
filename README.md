@@ -1,0 +1,1 @@
+# C-program-to-verify-a-given-number-is-palindrome-or-not-
